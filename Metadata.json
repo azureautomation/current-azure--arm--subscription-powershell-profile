@@ -1,7 +1,7 @@
 {
     "Author": "s_lapointe",
     "ContentSize": 1365,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/current-azure-(arm)-subscription-powershell-profile/master/profile.azurerm.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/current-azure--arm--subscription-powershell-profile/master/profile.azurerm.ps1",
     "DownloadCount": 708,
     "Id": "Current-AzureRM-subscriptio-9fc1052d",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "For Azure Resource Manager usage only (classic version here). Use this script to customize your PowerShell profile. It will enable you to display what Azure subscription is currently selected when you start a new PowerShell session. It can save you the shame of having to explai",
     "Title": "Current Azure (ARM) subscription - PowerShell profile",
     "UpdatedDate": "2019-3-14T00:00:00",
-    "Url": "https://github.com/azureautomation/current-azure-(arm)-subscription-powershell-profile",
+    "Url": "https://github.com/azureautomation/current-azure--arm--subscription-powershell-profile",
     "UserTags": "Powershell, User Profile, Windows Azure PowerShell"
 }
